@@ -1,0 +1,1100 @@
+{
+  "StatusEffects": [
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_SELF_IMPROVEMENT",
+      "TimerOffset": "38",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_ATTACK_UP_S",
+      "TimerOffset": "3C",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_ATTACK_UP_L",
+      "TimerOffset": "40",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_HEALTH_BOOST_S",
+      "TimerOffset": "44",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_HEALTH_BOOST_L",
+      "TimerOffset": "48",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_STAMINA_USE_REDUCED_S",
+      "TimerOffset": "4C",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_STAMINA_USE_REDUCED_L",
+      "TimerOffset": "50",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_WIND_PRESSURE_NEGATED",
+      "TimerOffset": "54",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_ALL_WIND_PRESSURE_NEGATED",
+      "TimerOffset": "58",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_DEFENSE_UP_S",
+      "TimerOffset": "5C",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_DEFENSE_UP_L",
+      "TimerOffset": "60",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_TOOL_USE_DRAIN_REDUCED_S",
+      "TimerOffset": "64",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_TOOL_USE_DRAIN_REDUCED_L",
+      "TimerOffset": "68",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_HEALTH_RECOVERY_S",
+      "TimerOffset": "80",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_HEALTH_RECOVERY_L",
+      "TimerOffset": "84",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_EARPLUGS_S",
+      "TimerOffset": "88",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_EARPLUGS_L",
+      "TimerOffset": "8C",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_DIVINE_PROTECTION",
+      "TimerOffset": "90",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_SCOUTFLY_POWER_UP",
+      "TimerOffset": "94",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_ENVIRONMENTAL_DAMAGE_NEGATED",
+      "TimerOffset": "98",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_STUN_NEGATED",
+      "TimerOffset": "9C",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_PARALYSIS_NEGATED",
+      "TimerOffset": "A0",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_TREMORS_NEGATED",
+      "TimerOffset": "A4",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_MUCK_RESISTANCE",
+      "TimerOffset": "A8",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_FIRE_RESISTANCE_BOOST_S",
+      "TimerOffset": "AC",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_FIRE_RESISTANCE_BOOST_L",
+      "TimerOffset": "B0",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_WATER_RESISTANCE_BOOST_S",
+      "TimerOffset": "B4",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_WATER_RESISTANCE_BOOST_L",
+      "TimerOffset": "B8",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_THUNDER_RESISTANCE_BOOST_S",
+      "TimerOffset": "BC",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_THUNDER_RESISTANCE_BOOST_L",
+      "TimerOffset": "C0",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_ICE_RESISTANCE_BOOST_S",
+      "TimerOffset": "C4",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_ICE_RESISTANCE_BOOST_L",
+      "TimerOffset": "C8",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_DRAGON_RESISTANCE_BOOST_S",
+      "TimerOffset": "CC",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_DRAGON_RESISTANCE_BOOST_L",
+      "TimerOffset": "D0",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_ELEMENTAL_ATTACK_BOOST",
+      "TimerOffset": "D4",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_BLIGHT_NEGATED",
+      "TimerOffset": "D8",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_KNOCKBACKS_NEGATED",
+      "TimerOffset": "E4",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_ELEMENTAL_RESISTANCE_UP",
+      "TimerOffset": "EC",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_AFFINITY_UP",
+      "TimerOffset": "F0",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_ALL_AILMENTS_NEGATED",
+      "TimerOffset": "F4",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_WIND_PRESSURE_NEGATED_AND_EARPLUGS_S",
+      "TimerOffset": "F8",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_ABNORMAL_STATUS_ATTACK_INCREASED",
+      "TimerOffset": "FC",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_STAMINA_UP_AND_RECOVERY",
+      "TimerOffset": "10C",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_EXTENDED_HEALTH_RECOVERY",
+      "TimerOffset": "110",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_SPEED_BOOST_AND_EVADE_WINDOW_UP",
+      "TimerOffset": "114",
+      "Source": 1
+    },
+    {
+      "GroupId": "Horn",
+      "NameStringId": "LOC_STATUS_EFFECT_ELEMENTAL_EFFECTIVENESS_UP",
+      "TimerOffset": "118",
+      "Source": 1
+    },
+    {
+      "GroupId": "Coral",
+      "NameStringId": "LOC_STATUS_EFFECT_ATTACK_UP_S",
+      "TimerOffset": "120",
+      "Source": 1
+    },
+    {
+      "GroupId": "Coral",
+      "NameStringId": "LOC_STATUS_EFFECT_ATTACK_UP_L",
+      "TimerOffset": "124",
+      "Source": 1
+    },
+    {
+      "GroupId": "Coral",
+      "NameStringId": "LOC_STATUS_EFFECT_DEFENSE_UP_S",
+      "TimerOffset": "128",
+      "Source": 1
+    },
+    {
+      "GroupId": "Coral",
+      "NameStringId": "LOC_STATUS_EFFECT_DEFENSE_UP_L",
+      "TimerOffset": "12C",
+      "Source": 1
+    },
+    {
+      "GroupId": "Coral",
+      "NameStringId": "LOC_STATUS_EFFECT_AFFINITY_UP",
+      "TimerOffset": "130",
+      "Source": 1
+    },
+    {
+      "GroupId": "Coral",
+      "NameStringId": "LOC_STATUS_EFFECT_HEALTH_RECOVERY",
+      "TimerOffset": "134",
+      "Source": 1
+    },
+    {
+      "GroupId": "Coral",
+      "NameStringId": "LOC_STATUS_EFFECT_HEALTH_BOOST",
+      "TimerOffset": "138",
+      "Source": 1
+    },
+    {
+      "GroupId": "Coral",
+      "NameStringId": "LOC_STATUS_EFFECT_STAMINA_USE_REDUCED",
+      "TimerOffset": "13C",
+      "Source": 1
+    },
+    {
+      "GroupId": "Coral",
+      "NameStringId": "LOC_STATUS_EFFECT_DIVINE_PROTECTION",
+      "TimerOffset": "144",
+      "Source": 1
+    },
+    {
+      "GroupId": "Coral",
+      "NameStringId": "LOC_STATUS_EFFECT_STUN_NEGATED",
+      "TimerOffset": "14C",
+      "Source": 1
+    },
+    {
+      "GroupId": "Coral",
+      "NameStringId": "LOC_STATUS_EFFECT_PARALYSIS_NEGATED",
+      "TimerOffset": "150",
+      "Source": 1
+    },
+    {
+      "GroupId": "Coral",
+      "NameStringId": "LOC_STATUS_EFFECT_TREMORS_NEGATED",
+      "TimerOffset": "154",
+      "Source": 1
+    },
+    {
+      "GroupId": "Coral",
+      "NameStringId": "LOC_STATUS_EFFECT_EARPLUGS_S",
+      "TimerOffset": "158",
+      "Source": 1
+    },
+    {
+      "GroupId": "Coral",
+      "NameStringId": "LOC_STATUS_EFFECT_WIND_PRESSURE_NEGATED",
+      "TimerOffset": "15C",
+      "Source": 1
+    },
+    {
+      "GroupId": "Coral",
+      "NameStringId": "LOC_STATUS_EFFECT_ENVIRONMENTAL_DAMAGE_NEGATED",
+      "TimerOffset": "160",
+      "Source": 1
+    },
+    {
+      "GroupId": "Debuff",
+      "NameStringId": "LOC_STATUS_EFFECT_POISON",
+      "TimerOffset": "5DC",
+      "Source": 1
+    },
+    {
+      "GroupId": "Debuff",
+      "NameStringId": "LOC_STATUS_EFFECT_VIRULENT",
+      "TimerOffset": "5E0",
+      "Source": 1
+    },
+    {
+      "GroupId": "Debuff",
+      "NameStringId": "LOC_STATUS_EFFECT_FIREBLIGHT",
+      "TimerOffset": "5EC",
+      "Source": 1
+    },
+    {
+      "GroupId": "Debuff",
+      "NameStringId": "LOC_STATUS_EFFECT_THUNDERBLIGHT",
+      "TimerOffset": "5F0",
+      "Source": 1
+    },
+    {
+      "GroupId": "Debuff",
+      "NameStringId": "LOC_STATUS_EFFECT_WATERBLIGHT",
+      "TimerOffset": "5F4",
+      "Source": 1
+    },
+    {
+      "GroupId": "Debuff",
+      "NameStringId": "LOC_STATUS_EFFECT_ICEBLIGHT",
+      "TimerOffset": "5F8",
+      "Source": 1
+    },
+    {
+      "GroupId": "Debuff",
+      "NameStringId": "LOC_STATUS_EFFECT_DRAGONBLIGHT",
+      "TimerOffset": "5FC",
+      "Source": 1
+    },
+    {
+      "GroupId": "Debuff",
+      "NameStringId": "LOC_STATUS_EFFECT_BLEEDING",
+      "TimerOffset": "600",
+      "Source": 1
+    },
+    {
+      "GroupId": "Debuff",
+      "NameStringId": "LOC_STATUS_EFFECT_BLEEDING_RECOVERY",
+      "TimerOffset": "604",
+      "Source": 1
+    },
+    {
+      "GroupId": "Debuff",
+      "NameStringId": "LOC_STATUS_EFFECT_EFFLUVIA",
+      "TimerOffset": "608",
+      "Source": 1
+    },
+    {
+      "GroupId": "Debuff",
+      "NameStringId": "LOC_STATUS_EFFECT_DEFENSE_DOWN",
+      "TimerOffset": "60C",
+      "Source": 1
+    },
+    {
+      "GroupId": "Debuff",
+      "NameStringId": "LOC_STATUS_EFFECT_ELEMENTAL_RESISTANCE_DOWN",
+      "TimerOffset": "614",
+      "Source": 1
+    },
+    {
+      "GroupId": "Debuff",
+      "NameStringId": "LOC_STATUS_EFFECT_NO_ITEMS",
+      "TimerOffset": "61C",
+      "Source": 1
+    },
+    {
+      "GroupId": "Debuff",
+      "NameStringId": "LOC_STATUS_EFFECT_BLASTBLIGHT",
+      "TimerOffset": "620",
+      "Source": 1
+    },
+    {
+      "GroupId": "Debuff",
+      "NameStringId": "LOC_STATUS_EFFECT_BLASTSCOURGE",
+      "TimerOffset": "63C",
+      "Source": 1
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_DASH_JUICE",
+      "TimerOffset": "690",
+      "Source": 1
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_WIGGLY_LITCHI",
+      "TimerOffset": "694",
+      "Source": 1
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_IMMUNIZER",
+      "TimerOffset": "698",
+      "Source": 1
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_MIGHT_SEED",
+      "TimerOffset": "6A0",
+      "Source": 1,
+      "Conditions": [
+        {
+          "Offsets": [
+            "6A4"
+          ],
+          "IntValue": 10
+        }
+      ]
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_MIGHT_PILL",
+      "TimerOffset": "6A0",
+      "Source": 1,
+      "Conditions": [
+        {
+          "Offsets": [
+            "6A4"
+          ],
+          "IntValue": 25
+        }
+      ]
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_ADAMANT_SEED",
+      "TimerOffset": "6B0",
+      "Source": 1,
+      "Conditions": [
+        {
+          "Offsets": [
+            "6B4"
+          ],
+          "IntValue": 20
+        }
+      ]
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_ADAMANT_PILL",
+      "TimerOffset": "6B0",
+      "Source": 1,
+      "Conditions": [
+        {
+          "Offsets": [
+            "6B4"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_DEMON_POWDER",
+      "TimerOffset": "6C4",
+      "Source": 1
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_HARDSHELL_POWDER",
+      "TimerOffset": "6C8",
+      "Source": 1
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_DEMONDRUG",
+      "Source": 1,
+      "Conditions": [
+        {
+          "Offsets": [
+            "6D4"
+          ],
+          "IntValue": 1
+        }
+      ]
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_MEGA_DEMONDRUG",
+      "Source": 1,
+      "Conditions": [
+        {
+          "Offsets": [
+            "6D4"
+          ],
+          "IntValue": 2
+        }
+      ]
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_ARMORSKIN",
+      "Source": 1,
+      "Conditions": [
+        {
+          "Offsets": [
+            "6D8"
+          ],
+          "IntValue": 1
+        }
+      ]
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_MEGA_ARMORSKIN",
+      "Source": 1,
+      "Conditions": [
+        {
+          "Offsets": [
+            "6D8"
+          ],
+          "IntValue": 2
+        }
+      ]
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_COOL_DRINK",
+      "TimerOffset": "6EC",
+      "Source": 1
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_HOT_DRINK",
+      "TimerOffset": "6F0",
+      "Source": 1
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_HEALTH_RECOVERY(HOT_SPRING)",
+      "TimerOffset": "6F8",
+      "Source": 1
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_CLODPROOF(HOT_SPRING)",
+      "TimerOffset": "6FC",
+      "Source": 1
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_ATTACK_UP(POWERCONE)",
+      "TimerOffset": "718",
+      "Source": 1
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_ICEPROOF(THAWPUFF)",
+      "TimerOffset": "71C",
+      "Source": 1
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_PROTECTIVE_POLISH",
+      "TimerOffset": "76C",
+      "Source": 1
+    },
+    {
+      "GroupId": "Buff",
+      "NameStringId": "LOC_STATUS_EFFECT_AFFINITY_SLIDING",
+      "TimerOffset": "770",
+      "Source": 1
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_MANTLE_GHILLIE",
+      "TimerOffset": "EFC",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_MANTLE_TEMPORAL",
+      "TimerOffset": "F00",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_HEALTH_BOOSTER",
+      "TimerOffset": "F04",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_MANTLE_ROCKSTEADY",
+      "TimerOffset": "F08",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_MANTLE_CHALLENGER",
+      "TimerOffset": "F0C",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_MANTLE_VITALITY",
+      "TimerOffset": "F10",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_MANTLE_FIREPROOF",
+      "TimerOffset": "F14",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_MANTLE_WATERPROOF",
+      "TimerOffset": "F18",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_MANTLE_ICEPROOF",
+      "TimerOffset": "F1C",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_MANTLE_THUNDERPROOF",
+      "TimerOffset": "F20",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_MANTLE_DRAGONPROOF",
+      "TimerOffset": "F24",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_CLEANSER_BOOSTER",
+      "TimerOffset": "F28",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_MANTLE_GLIDER",
+      "TimerOffset": "F2C",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_MANTLE_EVASION",
+      "TimerOffset": "F30",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_MANTLE_IMPACT",
+      "TimerOffset": "F34",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_MANTLE_APOTHECARY",
+      "TimerOffset": "F38",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_MANTLE_IMMUNITY",
+      "TimerOffset": "F3C",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_AFFINITY_BOOSTER",
+      "TimerOffset": "F40",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_MANTLE_BANDIT",
+      "TimerOffset": "F44",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_ASSASSINS_HOOD",
+      "TimerOffset": "F48",
+      "Source": 2
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_MANTLE_GHILLIE",
+      "TimerOffset": "EAC",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "EFC"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_MANTLE_TEMPORAL",
+      "TimerOffset": "EB0",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F00"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_HEALTH_BOOSTER",
+      "TimerOffset": "EB4",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F04"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_MANTLE_ROCKSTEADY",
+      "TimerOffset": "EB8",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F08"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_MANTLE_CHALLENGER",
+      "TimerOffset": "EBC",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F0C"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_MANTLE_VITALITY",
+      "TimerOffset": "EC0",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F10"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_MANTLE_FIREPROOF",
+      "TimerOffset": "EC4",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F14"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_MANTLE_WATERPROOF",
+      "TimerOffset": "EC8",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F18"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_MANTLE_ICEPROOF",
+      "TimerOffset": "ECC",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F1C"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_MANTLE_THUNDERPROOF",
+      "TimerOffset": "ED0",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F20"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_MANTLE_DRAGONPROOF",
+      "TimerOffset": "ED4",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F24"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_CLEANSER_BOOSTER",
+      "TimerOffset": "ED8",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F28"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_MANTLE_GLIDER",
+      "TimerOffset": "EDC",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F2C"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_MANTLE_EVASION",
+      "TimerOffset": "EE0",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F30"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_MANTLE_IMPACT",
+      "TimerOffset": "EE4",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F34"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_MANTLE_APOTHECARY",
+      "TimerOffset": "EE8",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F38"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_MANTLE_IMMUNITY",
+      "TimerOffset": "EEC",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F3C"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_AFFINITY_BOOSTER",
+      "TimerOffset": "EF0",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F40"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_MANTLE_BANDIT",
+      "TimerOffset": "EF4",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F44"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Equipment",
+      "NameStringId": "LOC_EQUIPMENT_RECHARGE_ASSASSINS_HOOD",
+      "TimerOffset": "EF8",
+      "Source": 2,
+      "Conditions": [
+        {
+          "Offsets": [
+            "F48"
+          ],
+          "IntValue": 0
+        }
+      ]
+    },
+    {
+      "GroupId": "Weapon",
+      "NameStringId": "LOC_WEAPON_CHARGE_BLADE_SHIELD_CHARGE",
+      "TimerOffset": "2378",
+      "Source": 3
+    },
+    {
+      "GroupId": "Weapon",
+      "NameStringId": "LOC_WEAPON_CHARGE_BLADE_BLADE_CHARGE",
+      "TimerOffset": "237C",
+      "Source": 3
+    },
+    {
+      "GroupId": "Weapon",
+      "NameStringId": "LOC_WEAPON_CHARGE_BLADE_PHIAL_EXPIRES",
+      "TimerOffset": "2470",
+      "Source": 3
+    },
+    {
+      "GroupId": "Weapon",
+      "NameStringId": "LOC_WEAPON_LONGSWORD_SPIRIT_GAUGE_REGEN_LAI_SLASH",
+      "TimerOffset": "2374",
+      "Source": 15
+    },
+    {
+      "GroupId": "Weapon",
+      "NameStringId": "LOC_WEAPON_LONGSWORD_STEADY_SPIRIT_LEVEL",
+      "TimerOffset": "2370",
+      "Source": 15
+    },
+    {
+      "GroupId": "Weapon",
+      "NameStringId": "LOC_WEAPON_INSECT_GLAIVE_ATTACK",
+      "TimerOffset": "2368",
+      "Source": 10
+    },
+    {
+      "GroupId": "Weapon",
+      "NameStringId": "LOC_WEAPON_INSECT_GLAIVE_SPEED",
+      "TimerOffset": "236C",
+      "Source": 10
+    },
+    {
+      "GroupId": "Weapon",
+      "NameStringId": "LOC_WEAPON_INSECT_GLAIVE_DEFENSE",
+      "TimerOffset": "2370",
+      "Source": 10
+    },
+    {
+      "GroupId": "Weapon",
+      "NameStringId": "LOC_WEAPON_SWITCH_AXE_AMPED_STATE",
+      "TimerOffset": "2350",
+      "Source": 13
+    }
+  ]
+}

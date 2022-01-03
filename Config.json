@@ -1,0 +1,91 @@
+{
+  "VersionsFileName": "Versions.json",
+  "LocalizationFileName": "en-US.json",
+  "SkinFileName": "Default.xaml",
+  "MonsterDataFileName": "MonsterData.json",
+  "PlayerDataFileName": "PlayerData.json",
+  "MemoryFileName": "Memory.json",
+  "ServerUrl": "http://140.238.55.121/index.php",
+  "UserDataPath": "C:\\Program Files (x86)\\Steam\\userdata\\",
+  "IgnoreHttpsErrors": true,
+  "ShutdownWhenProcessExits": true,
+  "BackupWhenProcessExits": false,
+  "AutomaticallyCheckAndDownloadUpdates": true,
+  "StartMHWWhenSmartHunterStart": false,
+  "Overlay": {
+    "ScaleMin": 0.5,
+    "ScaleMax": 2,
+    "ScaleStep": 0.1,
+    "HideWhenGameWindowIsInactive": false,
+    "UpdatesPerSecond": 20,
+    "TeamWidget": {
+      "DontShowIfAlone": false,
+      "ShowBars": true,
+      "ShowNumbers": true,
+      "ShowPercents": true,
+      "ShowChart": false,
+      "IsVisible": true,
+      "X": 1236,
+      "Y": 801,
+      "Scale": 1
+    },
+    "MonsterWidget": {
+      "IncludeMonsterIdRegex": "em[0-9]",
+      "IncludePartGroupIdRegex": ".*",
+      "IncludePartSoftenGroupIdRegex": ".*",
+      "IncludeStatusEffectGroupIdRegex": ".*",
+      "ShowUnchangedMonsters": false,
+      "HideMonstersAfterSeconds": 9999,
+      "ShowParts": false,
+      "ShowUnchangedParts": false,
+      "HidePartsAfterSeconds": 12,
+      "ShowSoftenParts": false,
+      "HideSoftenPartsAfterSeconds": 6,
+      "ShowStatusEffects": false,
+      "ShowUnchangedStatusEffects": false,
+      "HideStatusEffectsAfterSeconds": 12,
+      "ShowSize": false,
+      "ShowCrown": true,
+      "ShowBars": false,
+      "ShowNumbers": false,
+      "ShowPercents": false,
+      "UseAnimations": false,
+      "ShowOnlySelectedMonster": true,
+      "AlwaysShowParts": false,
+      "UseNetworkServer": false,
+      "IsVisible": true,
+      "X": 645,
+      "Y": 0,
+      "Scale": 1
+    },
+    "PlayerWidget": {
+      "IncludeStatusEffectGroupIdRegex": ".*",
+      "IsVisible": true,
+      "X": 836,
+      "Y": 859,
+      "Scale": 1
+    },
+    "DebugWidget": {
+      "IsVisible": false,
+      "X": 120,
+      "Y": 320,
+      "Scale": 1
+    }
+  },
+  "Keybinds": {
+    "ManipulateWidget": "LeftAlt",
+    "HideWidgets": "F1",
+    "CopyTeamDamage": "F5",
+    "CopyPlayer1Damage": "F6",
+    "CopyPlayer2Damage": "F7",
+    "CopyPlayer3Damage": "F9",
+    "CopyPlayer4Damage": "F10"
+  },
+  "Debug": {
+    "UseInternalSkin": false,
+    "UseSampleData": false,
+    "TraceUniquePointers": false,
+    "ShowWeirdRemovableParts": false,
+    "ShowServerLogs": false
+  }
+}
